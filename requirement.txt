@@ -1,0 +1,5 @@
+tqdm
+gensim
+pyhanlp
+codecs
+ahocorasick
